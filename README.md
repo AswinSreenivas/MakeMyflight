@@ -1,14 +1,11 @@
-![icon_logo]([https://www.pngegg.com/en/search?q=airplane+Logo](https://www.shutterstock.com/image-vector/flight-icon-trendy-logo-concept-on-1257541705))
+![icon_logo]([[https://www.pngegg.com/en/search?q=airplane+Logo](https://www.shutterstock.com/image-vector/flight-icon-trendy-logo-concept-on-1257541705)](https://www.shutterstock.com/image-vector/flight-icon-vector-logo-template-1109678873))
 
 
 
 A flight booking Django application written in Python, HTML, CSS & Javascript.
-This is the capstone project for CS50's Web Programming with Python and Javascript.
-
-#### Project Video: [Watch on Youtube](https://www.youtube.com/watch?v=3tD4OsuGmoo)
 
 
-<img alt="flight" src="https://user-images.githubusercontent.com/56977388/178156598-69491e88-bd9a-42dc-88f3-afeb02d7161e.png">
+
 
 
 ### Features
