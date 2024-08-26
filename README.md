@@ -1,4 +1,3 @@
-![icon_logo]([[https://www.pngegg.com/en/search?q=airplane+Logo](https://www.shutterstock.com/image-vector/flight-icon-trendy-logo-concept-on-1257541705)](https://www.shutterstock.com/image-vector/flight-icon-vector-logo-template-1109678873))
 
 
 
